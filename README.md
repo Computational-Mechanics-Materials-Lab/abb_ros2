@@ -1,3 +1,10 @@
+# About this fork
+This project is a fork of Piknik's Abb_ROS2, with specific features added to support advanced manufacturing. As these additions are made, they will be detailed the [change log](CHANGE.MD) 
+
+These additions by CMML @ MSU (2025).
+
+Original license from Piknik abb_ros2 is retained. 
+
 This is a meta-package containing everything to run an ABB robot or simulation with ROS 2.
 
 - `abb_bringup`: Launch files and ros2_control config files that are generic to many types of ABB robots.

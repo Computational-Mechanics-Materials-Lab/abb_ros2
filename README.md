@@ -5,6 +5,7 @@ These additions by CMML @ MSU (2025).
 
 Original license from Piknik abb_ros2 is retained. 
 
+# abb_ros2
 This is a meta-package containing everything to run an ABB robot or simulation with ROS 2.
 
 - `abb_bringup`: Launch files and ros2_control config files that are generic to many types of ABB robots.
